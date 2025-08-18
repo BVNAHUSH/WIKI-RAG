@@ -1,0 +1,7 @@
+streamlit
+wikipedia
+transformers==4.40.2
+sentence-transformers
+faiss-cpu
+numpy
+torch
