@@ -24,8 +24,7 @@ It uses:
 - 🧠 **QA Model** – Answers questions using Hugging Face's `roberta-base-squad2`.  
 - 🤖 **Semantic Search** – Dense embeddings using SentenceTransformers.  
 - ⚡ **Vector Search** – FAISS-powered similarity search.  
-- 🎛 **Streamlit UI** – Clean and interactive interface.  
-- ☁ **Live App** – [Try it here](https://wikipilot.streamlit.app/).  
+
 
 ---
 
@@ -41,12 +40,7 @@ WIKI-RAG/
 
 ---
 
-## 🚀 Deployment
 
-This app is deployed on **Streamlit Cloud** and is live here:  
-👉 [https://wikipilot.streamlit.app/](https://wikipilot.streamlit.app/)
-
----
 
 ## 💻 Run Locally
 
